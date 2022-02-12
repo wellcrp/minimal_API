@@ -1,0 +1,11 @@
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\bin\Debug\net6.0\Project.Minimal.Domain.deps.json
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\bin\Debug\net6.0\Project.Minimal.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\bin\Debug\net6.0\ref\Project.Minimal.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\bin\Debug\net6.0\Project.Minimal.Domain.pdb
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\ref\Project.Minimal.Domain.dll
+E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Domain\obj\Debug\net6.0\Project.Minimal.Domain.pdb

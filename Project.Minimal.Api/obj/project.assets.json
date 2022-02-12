@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Autofac/6.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "4.7.1"
+        },
+        "compile": {
+          "lib/net5.0/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Autofac.dll": {}
+        }
+      },
       "AutoMapper/11.0.1": {
         "type": "package",
         "dependencies": {
@@ -215,6 +227,15 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "System.Diagnostics.DiagnosticSource/4.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      },
       "System.Drawing.Common/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -365,6 +386,27 @@
     }
   },
   "libraries": {
+    "Autofac/6.3.0": {
+      "sha512": "gO4bli0N8tDnBHzbYktcnbXlmN6T+IT5W+FUGgCUaM6pwwHXIxOPoUGvfGum7sZpJJgfQNgjFFv80ZPuARgRdA==",
+      "type": "package",
+      "path": "autofac/6.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.6.3.0.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net5.0/Autofac.dll",
+        "lib/net5.0/Autofac.pdb",
+        "lib/net5.0/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
     "AutoMapper/11.0.1": {
       "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
       "type": "package",
@@ -756,6 +798,32 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "System.Diagnostics.DiagnosticSource/4.7.1": {
+      "sha512": "j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
+      "type": "package",
+      "path": "system.diagnostics.diagnosticsource/4.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net45/System.Diagnostics.DiagnosticSource.xml",
+        "lib/net46/System.Diagnostics.DiagnosticSource.dll",
+        "lib/net46/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll",
+        "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll",
+        "lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml",
+        "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+        "system.diagnostics.diagnosticsource.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "System.Drawing.Common/6.0.0": {
       "sha512": "NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
       "type": "package",
@@ -955,6 +1023,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 11.0.1",
+      "Autofac >= 6.3.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
       "Project.Minimal.Application >= 1.0.0",
       "Project.Minimal.Domain >= 1.0.0",
@@ -971,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
+      "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
       "projectName": "Project.Minimal.Api",
-      "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
+      "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
       "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-      "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Api\\obj\\",
+      "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -997,14 +1066,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
-              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj"
+            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
+              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj"
             },
-            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
-              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj"
+            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
+              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj"
             },
-            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {
-              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj"
+            "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {
+              "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj"
             }
           }
         }
@@ -1022,6 +1091,10 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[11.0.1, )"
+          },
+          "Autofac": {
+            "target": "Package",
+            "version": "[6.3.0, )"
           },
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VkeLkCViqp493yJkQv24lvSwKppC3r4hXvTlVuIEWEtFYsqefPbFoI6uFdK+5tI6lpUUiCzzMhAdhx7nGxf87A==",
+  "dgSpecHash": "oYmiCFCXXJf5qVs+/NZfvyXr9zKeLO+9qRpyOZ77C+5/U/xrNBZhTYY0yOIogCGxMgM6X246tFztDZxvVdDQbw==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

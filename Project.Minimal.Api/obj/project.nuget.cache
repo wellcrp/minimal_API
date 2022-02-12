@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tnNqHhlHKNqbMyDJu+Bl0CnKIWgw7ehVG9z54rmYiJQCBIgoIEYmThJzh99YXx2Bi7EkjYeYn+6CpB5m4paxQQ==",
+  "dgSpecHash": "ynexuNH1fcSjWeYiKe0w3s5Shm5cWz2ZX0yJvV6bKyB4iWr+/ypvoFimiv9pWtA2haozwe0/wrKBzRVfQZCbBQ==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Api\\Project.Minimal.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\well_\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
@@ -21,6 +22,7 @@
     "C:\\Users\\well_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",

@@ -29,9 +29,9 @@ namespace Project.Minimal.Infrastructure.Product
             return Task.FromResult(_productAll);
         }
 
-        public Task<ProductModel> GetProductById(Guid productId)
+        public Task<ProductModel> GetProductBySku(int sku)
         {
-            var result = _productAll.FirstOrDefault(x => x.ProductId.Equals(productId));            
+            var result = _productAll.FirstOrDefault(x => x.ProductSKU.Equals(sku));
 
             return Task.FromResult(result);
         }

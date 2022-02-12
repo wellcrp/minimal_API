@@ -10,7 +10,6 @@ using Project.Minimal.Application.Handler.Query;
 using Project.Minimal.Application.Query;
 using Project.Minimal.Infrastructure.Interface;
 using Project.Minimal.Infrastructure.Product;
-using System;
 using System.Net;
 using System.Reflection;
 
@@ -61,9 +60,9 @@ app.UseHttpsRedirection();
         .Produces((int)HttpStatusCode.NoContent)
         .Produces((int)HttpStatusCode.BadRequest);
 
-    app.MapGet("/api/Products/{product}", (Guid product, [FromServices] IMediator mediatr) =>
+    app.MapGet("/api/Products/skus/{sku}", (int product, [FromServices] IMediator mediatr) =>
     {
-        var result = mediatr.Send(new GetByIdProductQueryCommand(product));
+        var result = mediatr.Send(new GetBySkuProductQueryCommand(product));
 
         return Results.Ok(result);
     })

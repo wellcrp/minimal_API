@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {}
+    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
+    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj",
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj",
         "projectName": "Project.Minimal.Application",
-        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj",
         "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\obj\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
-                "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj"
+              "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
+                "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
+    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
         "projectName": "Project.Minimal.Domain",
-        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\Project.Minimal.Domain.csproj",
         "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Domain\\obj\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {
+    "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
         "projectName": "Project.Minimal.Infrastructure",
-        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\obj\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -173,8 +173,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
-                "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Application\\Project.Minimal.Application.csproj"
+              "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj": {
+                "projectPath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Application\\Project.Minimal.Application.csproj"
               }
             }
           }

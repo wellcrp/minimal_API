@@ -3,11 +3,11 @@ using Project.Minimal.Domain.Response;
 
 namespace Project.Minimal.Application.Query
 {
-    public class GetByIdProductQueryCommand : IRequest<ProductResponse>
+    public class GetBySkuProductQueryCommand : IRequest<ProductResponse>
     {
-        public GetByIdProductQueryCommand(Guid productId)
+        public GetBySkuProductQueryCommand(int productSKU)
         {
-            ProductId = productId;
+            ProductSKU = productSKU;
         }
 
         public Guid ProductId { get; set; }

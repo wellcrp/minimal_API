@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project.Minimal.Infrastructure
-build_property.ProjectDir = E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\Minimal.Product.API\Project.Minimal.Infrastructure\
+build_property.ProjectDir = E:\CodeBox\Project-Estudos\GitHub\C8-MINIMAL_API_CQRS_NET6_C#10\minimal_API\Project.Minimal.Infrastructure\

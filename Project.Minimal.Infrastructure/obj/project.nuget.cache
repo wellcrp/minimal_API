@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZqE/bavjJXGD44j+XM9xJY0d2Rp/YW65VrkOyjAVpDP9xWO3hhF2ykwI+3kIwaOciMSrsuUAOCfJP85GgNjbw==",
+  "dgSpecHash": "spjooXOXTcfgB/5smHP/fAhn92OxnA+DeqXC/lCioOpb5xMQviHd/8F/jCWpCdXoScSoAGlWRpKg9cAtYjhAYg==",
   "success": true,
-  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\Minimal.Product.API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\GitHub\\C8-MINIMAL_API_CQRS_NET6_C#10\\minimal_API\\Project.Minimal.Infrastructure\\Project.Minimal.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\well_\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\well_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
